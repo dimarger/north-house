@@ -1,0 +1,36 @@
+export const translations = {
+  en: {
+    nav: { properties: 'Properties', services: 'Services', locations: 'Locations', journal: 'Journal', about: 'About', contact: 'Contact', saved: 'Saved' },
+    home: {
+      eyebrow: 'Warsaw · Krakow · Gdansk',
+      heroTitle: 'Property with a point of view.',
+      heroSub: 'Exceptional homes and considered investments across Poland.',
+      explore: 'Explore properties',
+      sell: 'Sell your property',
+      selected: 'Selected properties',
+      selectedSub: 'A considered collection of homes, investments and architectural spaces.',
+      approach: 'A private approach to exceptional property.',
+    },
+    filters: { search: 'Search', buy: 'Buy', rent: 'Rent', location: 'Location', type: 'Property type', price: 'Price', maxPrice: 'Max price', bedrooms: 'Bedrooms', area: 'Area', status: 'Status', clear: 'Clear filters', grid: 'Grid', list: 'List', sort: 'Sort', newest: 'Newest', low: 'Price: low to high', high: 'Price: high to low', filters: 'Filters' },
+    common: { view: 'View property', compare: 'Compare', remove: 'Remove', request: 'Request a viewing', schedule: 'Schedule a viewing', saved: 'Saved properties', noSaved: 'No saved properties yet.', contact: 'Contact', city: 'City', rooms: 'rooms', bedrooms: 'bedrooms', bathrooms: 'bathrooms', floor: 'floor', year: 'year' },
+    forms: { name: 'Name', email: 'Email', phone: 'Phone', date: 'Preferred date', time: 'Preferred time', message: 'Message', success: 'Thank you. Our advisor will contact you shortly.' },
+    pages: { properties: 'Properties', sell: 'Thinking about selling?', sellSub: 'Position your property properly from the first impression to the final signature.', valuation: 'Request valuation', services: 'Services', locations: 'Locations', journal: 'The Journal', about: 'About North & House', neighbourhood: 'The neighbourhood', description: 'A home above the city.', amenities: 'Amenities', features: 'Property features' },
+  },
+  pl: {
+    nav: { properties: 'Nieruchomosci', services: 'Uslugi', locations: 'Lokalizacje', journal: 'Dziennik', about: 'O nas', contact: 'Kontakt', saved: 'Zapisane' },
+    home: {
+      eyebrow: 'Warszawa · Krakow · Gdansk',
+      heroTitle: 'Nieruchomosc z punktem widzenia.',
+      heroSub: 'Wyjatkowe domy i przemyslane inwestycje w Polsce.',
+      explore: 'Zobacz oferty',
+      sell: 'Sprzedaj nieruchomosc',
+      selected: 'Wybrane nieruchomosci',
+      selectedSub: 'Starannie dobrana kolekcja domow, inwestycji i przestrzeni architektonicznych.',
+      approach: 'Prywatne podejscie do wyjatkowych nieruchomosci.',
+    },
+    filters: { search: 'Szukaj', buy: 'Kupno', rent: 'Wynajem', location: 'Lokalizacja', type: 'Typ', price: 'Cena', maxPrice: 'Cena maks.', bedrooms: 'Sypialnie', area: 'Metraz', status: 'Status', clear: 'Wyczysc', grid: 'Siatka', list: 'Lista', sort: 'Sortuj', newest: 'Najnowsze', low: 'Cena: rosnaco', high: 'Cena: malejaco', filters: 'Filtry' },
+    common: { view: 'Zobacz oferte', compare: 'Porownaj', remove: 'Usun', request: 'Popros o prezentacje', schedule: 'Umow prezentacje', saved: 'Zapisane nieruchomosci', noSaved: 'Brak zapisanych nieruchomosci.', contact: 'Kontakt', city: 'Miasto', rooms: 'pokoje', bedrooms: 'sypialnie', bathrooms: 'lazienki', floor: 'pietro', year: 'rok' },
+    forms: { name: 'Imie', email: 'Email', phone: 'Telefon', date: 'Preferowana data', time: 'Preferowana godzina', message: 'Wiadomosc', success: 'Dziekujemy. Nasz doradca skontaktuje sie wkrotce.' },
+    pages: { properties: 'Nieruchomosci', sell: 'Myslisz o sprzedazy?', sellSub: 'Ustaw pozycje nieruchomosci od pierwszego wrazenia po podpis.', valuation: 'Popros o wycene', services: 'Uslugi', locations: 'Lokalizacje', journal: 'Dziennik', about: 'O North & House', neighbourhood: 'Okolica', description: 'Dom ponad miastem.', amenities: 'Udogodnienia', features: 'Cechy nieruchomosci' },
+  },
+}
